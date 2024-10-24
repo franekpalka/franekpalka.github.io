@@ -4,6 +4,12 @@ div{max-width:600px;
    }
 ;font-size:larger;
 font: weight 700px;
+  .center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
 font-family:Georgia, 'Times New Roman', Times, serif };
 body
 {background-color: blue;}
